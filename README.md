@@ -9,6 +9,8 @@ Not mobile friendly. Need to work on a mobile friendly version ***
 
 ** You can see the website working through this ling: https://chris-bird-weather-react-app.netlify.app/ ** 
 
+IF THERE IS NOT DATA SHOWING IS PROBABLY BECAUSE IT REACH THE MAXIMUM REQUESTS OF THE API PER DAY!
+
 ## Available Scripts
 
 In the project directory, you can run:
