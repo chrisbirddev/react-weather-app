@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+** Is a complete version of what I wanted to do for a weather app. **
+
+*** There are a few problems that I need looking into. API is providing "wrong" time depending on which type of data you want displaying. 
+Not mobile friendly. Need to work on a mobile friendly version ***
+
+** You can see the website working through this ling: https://chris-bird-weather-react-app.netlify.app/ ** 
+
 ## Available Scripts
 
 In the project directory, you can run:
